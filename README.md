@@ -2,7 +2,7 @@
 # SDE-LLMstrategy 
 
 > A systematic benchmarking framework for evaluating LLM code generation 
-> quality across prompting strategies — validated using LiveCodeBench's 
+> quality across prompting strategies  validated using LiveCodeBench's 
 > standard I/O evaluation protocol.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
@@ -20,15 +20,15 @@ impacts code reliability and developer productivity.
 
 **SDE-LLMstrategy** provides a reproducible, automated evaluation pipeline 
 that systematically compares how different prompting strategies affect the 
-correctness of LLM-generated code solutions — enabling teams to make 
+correctness of LLM-generated code solutions  enabling teams to make 
 evidence-based decisions before deploying LLM-assisted coding tools at scale.
 
 ---
 
 ##  Research Questions
 
-1. Which prompting strategy — **Zero-Shot**, **Few-Shot**, or 
-   **Chain-of-Thought (CoT)** — produces the highest pass rate on 
+1. Which prompting strategy  **Zero-Shot**, **Few-Shot**, or 
+   **Chain-of-Thought (CoT)**  produces the highest pass rate on 
    competitive programming problems?
 2. Does prompting strategy effectiveness vary across problem 
    difficulty levels (Easy / Medium / Hard)?
@@ -151,7 +151,7 @@ This framework is directly applicable in enterprise settings where teams need to
 - **Evaluate AI coding assistants** (GitHub Copilot, Cursor, Amazon CodeWhisperer)
   before adoption
 - **Select optimal prompting templates** for internal LLM-based developer tools
-- **Benchmark model upgrades** — measure whether a new LLM version improves 
+- **Benchmark model upgrades**  measure whether a new LLM version improves 
   code correctness
 - **Establish quality baselines** for AI-generated code in CI/CD pipelines
 - **Audit prompt strategy ROI** across different engineering problem domains
@@ -208,13 +208,13 @@ competitive programming tasks.
 
 ## 📄 License
 
-MIT License — see [LICENSE](LICENSE) for details.
+MIT License  see [LICENSE](LICENSE) for details.
 
 ---
 
 ##  Contact
 
 **Kriti Yadav**  
-Master of Data Science — RMIT University, Melbourne  
+Master of Data Science  RMIT University, Melbourne  
 [GitHub](https://github.com/Kriti-Data-Business)
 
