@@ -1,5 +1,4 @@
 
-```markdown
 # SDE-LLMstrategy 
 
 > A systematic benchmarking framework for evaluating LLM code generation 
@@ -213,9 +212,9 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-## 🤝 Contact
+##  Contact
 
 **Kriti Yadav**  
 Master of Data Science — RMIT University, Melbourne  
 [GitHub](https://github.com/Kriti-Data-Business)
-```
+
